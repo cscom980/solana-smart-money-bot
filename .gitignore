@@ -1,0 +1,6 @@
+.env
+positions.json
+review.csv
+__pycache__/
+*.pyc
+.venv/
